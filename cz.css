@@ -1,0 +1,8 @@
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.t{
+    filter: drop-shadow(15px 5px 5px red);
+}
